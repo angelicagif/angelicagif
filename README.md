@@ -1,75 +1,44 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/b5f0d96c-6ea0-44e1-aa3a-700a739d250d)
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=angelicagif.angelicagif&right_color=black"  />
 </div>
-
-###
+<h1 align="center">ANGELICA STROUD</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://i.postimg.cc/wMds9RLx/houdini-skillicon.png" height="39" alt="houdini logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/HLHK86m2/davinci-skillicon.png" height="39" alt="davinciresolve logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-###
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2>👩‍💻  About Me</h2>
+<p align="left">Hi, I’m Angelica — I’m currently working as a Houdini Crowd TD at a large film studio in London.<br>I’ve had the chance to contribute to projects such as How to Train Your Dragon (2025), F1 (2025), Prehistoric Planet Season 3, and Three Bags Full.<br><br>Outside of work, I love exploring creative tech — I enjoy 3D printing, and I’m currently learning Python and experimenting with making small Pygame projects.</p>
 
-###
+<div align="center">
+  <a href="angiegutz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@angelica8790" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.imdb.com/name/nm15378608/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=IMDB&logo=https://en.m.wikipedia.org/wiki/File:IMDB_Logo_2016.png&label=&color=FFCC00&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
 <h2>💻 Currently Working On</h2>
 <div>
-  <a href="https://github.com/angeligif/FlappyBird"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=angeligif&repo=FlappyBird&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/angeligif/Platformer"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=angeligif&repo=Platformer&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-</div>
-  <a href="https://github.com/angeligif/Houdini"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=angeligif&repo=Houdini&theme=tokyonight&hide_border=true&border_radius=20"/></a>
-</div>
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <a href="https://github.com/ewanp-dev/PlatformerShooter"><img align="center" width="333em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=PlatformerShooter&theme=calm_pink&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/angelicagif/FlappyBird"><img align="center" width="333em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=FlappyBird&theme=calm_pink&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/angelicagif/Houdini"><img align="center" width="333em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=Houdini&theme=calm_pink&hide_border=true&border_radius=20"/></a>
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
