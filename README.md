@@ -36,9 +36,9 @@
 
 <h2>💻 Currently Working On</h2>
 <div>
-  <a href="https://github.com/ewanp-dev/PlatformerShooter"><img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=PlatformerShooter&theme=calm_pink&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/angelicagif/FlappyBird"><img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=FlappyBird&theme=calm_pink&hide_border=true&border_radius=20"/></a>
-  <a href="https://github.com/angelicagif/Houdini"><img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=Houdini&theme=calm_pink&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/ewanp-dev/PlatformerShooter"><img align="center" width="278em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=PlatformerShooter&theme=calm_pink&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/angelicagif/FlappyBird"><img align="center" width="278em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=FlappyBird&theme=calm_pink&hide_border=true&border_radius=20"/></a>
+  <a href="https://github.com/angelicagif/Houdini"><img align="center" width="278em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagif&repo=Houdini&theme=calm_pink&hide_border=true&border_radius=20"/></a>
 </div>
 
 
